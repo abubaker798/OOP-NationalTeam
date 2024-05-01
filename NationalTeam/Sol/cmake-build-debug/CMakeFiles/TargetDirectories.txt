@@ -1,0 +1,3 @@
+D:/My-Projects-main/Sol/cmake-build-debug/CMakeFiles/Sol.dir
+D:/My-Projects-main/Sol/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My-Projects-main/Sol/cmake-build-debug/CMakeFiles/rebuild_cache.dir
